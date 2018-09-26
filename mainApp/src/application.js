@@ -21,6 +21,7 @@ export class Application {
                         <div class="both">
                             <react-app1></react-app1>
                             <react-app2></react-app2>
+                            <simple-react></simple-react>
                         </div>
                     </div>
                 </div>
