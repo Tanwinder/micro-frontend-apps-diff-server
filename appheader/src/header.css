@@ -1,0 +1,15 @@
+app-header {
+    /* margin: 1rem 0; */
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border-bottom: 1px solid #c2cfd6;
+    height: 55px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
