@@ -28,6 +28,7 @@
     color: #29363d;
     background: #fff;
     box-shadow: inset 0 0 6px #c2cfd6;
+    min-width: 200px;
 }
 .app-sidebar > button {
     width: 100%;
