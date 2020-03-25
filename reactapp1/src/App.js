@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import NewComp from './NewComp';
 
 export class App extends Component {
 
@@ -9,8 +10,9 @@ export class App extends Component {
                 <div className="card-header">React App 1</div>
                 <div className="card-body">
                     <h5 className="card-title">this is react app 1</h5>
-                    <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p className="card-text">we can add some text here of text.</p>
                 </div>
+                <NewComp />
                 </div>
             </div>
         )
